@@ -41,23 +41,23 @@
 
 |                                              온보딩 페이지                                               |
 | :------------------------------------------------------------------------------------------------------: |
-| <img src="./readme_assets/gif-onboarding.gif" align="center" style="width: 700px" alt="온보딩 페이지" /> |
+| <img src="./readme-assets/gif-onboarding.gif" align="center" style="width: 700px" alt="온보딩 페이지" /> |
 
 |                                                 행사 등록 페이지                                                 |
 | :--------------------------------------------------------------------------------------------------------------: |
-| <img src="./readme_assets/gif-register-events.gif" align="center" style="width: 700px" alt="행사 등록 페이지" /> |
+| <img src="./readme-assets/gif-register-events.gif" align="center" style="width: 700px" alt="행사 등록 페이지" /> |
 
 |                                       출석 체크 기능 (학번 입력 및 서명)                                       |
 | :------------------------------------------------------------------------------------------------------------: |
-| <img src="./readme_assets/gif-check-attendance.gif" align="center" style="width: 700px" alt="프로젝트 소개" /> |
+| <img src="./readme-assets/gif-check-attendance.gif" align="center" style="width: 700px" alt="프로젝트 소개" /> |
 
 |                                                  행사 목록 및 행사 상세 페이지                                                  |
 | :-----------------------------------------------------------------------------------------------------------------------------: |
-| <img src="./readme_assets/gif-event-list-detail.gif" align="center" style="width: 700px" alt="행사 목록 및 행사 상세 페이지" /> |
+| <img src="./readme-assets/gif-event-list-detail.gif" align="center" style="width: 700px" alt="행사 목록 및 행사 상세 페이지" /> |
 
 |                                                     참석자 명단 다운로드 기능                                                      |
 | :--------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="./readme_assets/gif-download-attendance-list.gif" align="center" style="width: 700px" alt="참석자 명단 다운로드 기능" /> |
+| <img src="./readme-assets/gif-download-attendance-list.gif" align="center" style="width: 700px" alt="참석자 명단 다운로드 기능" /> |
 
 <br />
 
