@@ -65,32 +65,10 @@
 
 ## 🏄🏻‍♀️ 개발 팀 소개
 
-<table style="text-align:center">
-  <thead>
-    <tr>
-      <th style="text-align: center;">프로필</th>
-      <th style="text-align: center;">이름 (세부 전공)</th>
-      <th style="text-align: center;">역할</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/misung-dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/128569095?v=4" alt="류미성 프로필" width="100px" /></a></td>
-      <td style="text-align: center;">류미성<br>(컴퓨터과학 21)</td>
-      <td>Front-end</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/hanjeonghyun" target="_blank"><img src="https://avatars.githubusercontent.com/u/129199377?v=4" alt="한정현 프로필" width="100px" /></a></td>
-     <td style="text-align: center;">한정현<br>(컴퓨터과학 21)</td>
-      <td>Front-end</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dudrhy12" target="_blank"><img src="https://avatars.githubusercontent.com/u/90203803?v=4" alt="조영서 프로필" width="100px" /></a></td>
-      <td style="text-align: center;">조영서<br>(컴퓨터과학 21)</td>
-      <td>Back-end</td>
-    </tr>
-  </tbody>
-</table>
+| Back-end | Front-end | Front-end | 
+|:---------:|:---------:|:---------:|
+| <a href="https://github.com/dudrhy12" target="_blank"><img src="https://avatars.githubusercontent.com/u/90203803?v=4" alt="조영서 프로필" width="100px" /></a>   | <a href="https://github.com/misung-dev" target="_blank"><img src="https://avatars.githubusercontent.com/u/128569095?v=4" alt="류미성 프로필" width="100px" /></a>   | <a href="https://github.com/hanjeonghyun" target="_blank"><img src="https://avatars.githubusercontent.com/u/129199377?v=4" alt="한정현 프로필" width="100px" /></a>   |
+| 조영서<br>(컴퓨터과학21)   | 류미성<br>(컴퓨터과학21)   | 한정현<br>(컴퓨터과학21)   |
 
 <br>
 
